@@ -1,4 +1,4 @@
-﻿//Đỗ Nguyệt Anh
+﻿//Shyn123 committed
 namespace WindowsFormsApplication2
 {
     partial class Form3
