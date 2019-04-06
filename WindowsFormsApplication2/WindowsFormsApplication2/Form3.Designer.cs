@@ -1,4 +1,5 @@
-﻿namespace WindowsFormsApplication2
+﻿//Đỗ Nguyệt Anh
+namespace WindowsFormsApplication2
 {
     partial class Form3
     {
